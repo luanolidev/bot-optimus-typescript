@@ -32,6 +32,6 @@ And voila! Your server is now up and running.
 
 If you have any questions or need assistance, feel free to reach out to us on ([Discord](https://discord.gg/zyWGZX6VU7)).
 
-*This project was developed by shotzzy3.*
+*This project was developed by luanolidev.*
 
 ---
