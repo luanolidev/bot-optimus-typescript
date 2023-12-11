@@ -1,5 +1,3 @@
-# bot-optimus-typescript
-
 ## About This Bot
 
 **Note:** All rights are reserved for this bot, and the sale of its source files is strictly prohibited.
