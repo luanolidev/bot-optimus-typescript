@@ -26,7 +26,7 @@ This will download all the necessary dependencies for the project. Once the inst
 npm run dev
 ```
 
-And voila! Your server is now up and running.
+And voila! Your bot is now up and running.
 
 ## Contact
 
