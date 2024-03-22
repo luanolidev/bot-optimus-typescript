@@ -30,7 +30,7 @@ And voila! Your bot is now up and running.
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out to us on ([Discord](https://discord.gg/zyWGZX6VU7)).
+If you have any questions or need assistance, feel free to reach out to us on ([Discord](https://discord.gg/YzXSQ8jRXp)).
 
 *This project was developed by luanolidev.*
 
